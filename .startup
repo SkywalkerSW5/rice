@@ -1,0 +1,6 @@
+picom --experimental-backends
+feh --bg-fill ~/.config/wallpaper/wallpaper.jpg
+sudo NetworkManager
+sleep 10s
+
+# this is where i put my Network config, but for obvious reasons im leaving it out
